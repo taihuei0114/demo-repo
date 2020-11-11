@@ -1,3 +1,3 @@
 # Demo 
 
-Descripion: Git and Github tutorial
+Descripion: Git and Github tutorial.
